@@ -1,0 +1,6 @@
+{
+  "name": "৫ এগ্রো",
+  "description": "সদস্যভিত্তিক ডাইনামিক এগ্রো ফার্ম পার্টনারশিপ লেজার ও হিসাব খাতা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
